@@ -1,8 +1,0 @@
-Sleep-Talking-Pattern-Classifier-for-Emotional-Cognitive-State-Analysis/
-
-├── README.md
-├── LICENSE
-├── Sleep_Talking_Report.pdf.pdf
-├── app.py
-├── requirements.txt
-└── Figures/
