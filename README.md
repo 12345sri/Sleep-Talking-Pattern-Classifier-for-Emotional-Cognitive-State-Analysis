@@ -165,15 +165,29 @@ Event Reporting & Secure Storage
 
 ---
 
+## Team Project
+
+This project was developed as a collaborative academic research project by:
+
+- Manmoy Khastagir
+- Sriporna Biswas
+- Md Mahdi Hasan
+
+under the guidance of the project supervisor at Chandigarh University.
+
+---
+
 ## My Contributions
 
-- Research and literature review
-- System design and workflow development
-- Requirement analysis
-- AI solution conceptualization
-- Technical documentation
+As a co-author and team member, my primary contributions included:
+
+- Literature review and background research
+- Problem definition and requirement analysis
+- System workflow and architecture planning
+- AI-based solution conceptualization
+- Documentation and technical report preparation
 - Performance evaluation planning
-- Healthcare AI project development
+- Research coordination and project development support
 
 ---
 
