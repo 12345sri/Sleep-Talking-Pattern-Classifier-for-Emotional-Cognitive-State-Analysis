@@ -104,44 +104,6 @@ Comparison between the proposed system and existing sleep-monitoring approaches 
 
 ---
 
-## System Workflow
-
-Audio Capture
-
-↓
-
-Signal Enhancement & Noise Reduction
-
-↓
-
-Sleep-Talking Detection (VAD)
-
-↓
-
-Speech Segmentation
-
-↓
-
-Automatic Speech Recognition
-
-↓
-
-Emotion Classification
-
-↓
-
-Cognitive State Analysis
-
-↓
-
-Sleep Stage Correlation
-
-↓
-
-Event Reporting & Secure Storage
-
----
-
 ## Technologies & Concepts
 
 - Artificial Intelligence
