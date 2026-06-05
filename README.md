@@ -78,6 +78,31 @@ This project addresses these limitations through a dedicated AI-enabled platform
 - Privacy-first architecture
 
 ---
+---
+
+# System Architecture
+
+![System Architecture](Figures/system_architecture.png.jpeg)
+
+This diagram illustrates the complete architecture of the proposed sleep-talking analysis system, including audio acquisition, signal preprocessing, AI inference modules, encrypted storage, and secure connectivity.
+
+---
+
+# Design Flow
+
+![Design Flow](Figures/design_flow.png.jpeg)
+
+The workflow demonstrates the end-to-end development and implementation pipeline of the project, from requirement analysis to deployment and validation.
+
+---
+
+# Prior-Art Comparison
+
+![Prior-Art Comparison](Figures/prior_art_comparison.png.jpeg)
+
+Comparison between the proposed system and existing sleep-monitoring approaches in terms of privacy, preprocessing, speech analytics, and clinical usability.
+
+---
 
 ## System Workflow
 
