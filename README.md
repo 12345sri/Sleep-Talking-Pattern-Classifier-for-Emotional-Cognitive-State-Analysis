@@ -91,7 +91,9 @@ This diagram illustrates the complete architecture of the proposed sleep-talking
 
 # Design Flow
 
-![Design Flow](Figures/design_flow.png.jpeg)
+<p align="center">
+  <img src="Figures/design_flow.png.jpeg" width="600">
+</p>
 
 The workflow demonstrates the end-to-end development and implementation pipeline of the project, from requirement analysis to deployment and validation.
 
@@ -99,7 +101,9 @@ The workflow demonstrates the end-to-end development and implementation pipeline
 
 # Prior-Art Comparison
 
-![Prior-Art Comparison](Figures/prior_art_comparison.png.jpeg)
+<p align="center">
+  <img src="Figures/prior_art_comparison.png.jpeg" width="600">
+</p>
 
 Comparison between the proposed system and existing sleep-monitoring approaches in terms of privacy, preprocessing, speech analytics, and clinical usability.
 
