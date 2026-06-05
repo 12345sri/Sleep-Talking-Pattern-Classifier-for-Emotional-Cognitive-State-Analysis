@@ -81,7 +81,9 @@ This project addresses these limitations through a dedicated AI-enabled platform
 
 # System Architecture
 
-![System Architecture](Figures/system_architecture.png.jpeg)
+<p align="center">
+  <img src="Figures/system_architecture.png.jpeg" width="600">
+</p>
 
 This diagram illustrates the complete architecture of the proposed sleep-talking analysis system, including audio acquisition, signal preprocessing, AI inference modules, encrypted storage, and secure connectivity.
 
